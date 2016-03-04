@@ -7,6 +7,7 @@ public class pruebaGIT {
 		System.out.println("Hola mundo");
 		System.out.println("Adios mundo");
 		System.out.println("Hola");
+		System.out.println("gg");
 
 	}
 
